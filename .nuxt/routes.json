@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/workspace/try-nuxt-mail-server-side/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_16be04c0"
+  }
+]

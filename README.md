@@ -1,5 +1,5 @@
 <!-- TITLE/ -->
-# undefined
+# try-nuxt-mail-server-side
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
@@ -53,10 +53,10 @@
 
 ```bash
 # npm
-$ npm install undefined
+$ npm install try-nuxt-mail-server-side
 
 # Yarn
-$ yarn add undefined
+$ yarn add try-nuxt-mail-server-side
 ```
 <!-- /INSTALL -->
 
