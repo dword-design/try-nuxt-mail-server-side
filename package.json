@@ -27,7 +27,7 @@
     "nuxt-mail": "^3.0.23"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.6.15"
+    "@dword-design/base": "^11.0.0"
   },
   "engines": {
     "node": ">=12"
